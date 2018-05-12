@@ -1,0 +1,32 @@
+_repo: Freedom-Through-Disobedience_35349
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Das, Chitta Ranjan
+    aliases:
+    - Chittaranjan Das
+    - Das, Chittaranjan
+    - Das, C. R. (Chitta Ranjan)
+    birthdate: 1870
+    deathdate: 1925
+    gutenberg_agent_id: '37616'
+    url: http://www.gutenberg.org/2009/agents/37616
+    wikipedia: http://en.wikipedia.org/wiki/Chittaranjan_Das
+description: ''
+gutenberg_issued: '2011-02-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35349'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Civil disobedience -- India'
+- !lcc 'DS'
+- !lcsh 'India -- Politics and government -- 1919-1947'
+title: Freedom Through Disobedience
+url: http://www.gutenberg.org/ebooks/35349
